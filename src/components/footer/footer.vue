@@ -13,7 +13,7 @@
         </div>
         <div class="tab-item">
           <div class="shopcart">
-            <router-link to="/specialsell">
+            <router-link to="/shopcart">
               <img src="./main_tab_3.png" width="42" height="40">
             </router-link>
           </div>
@@ -24,7 +24,6 @@
           </router-link>
         </div>
       </div>
-      <router-view></router-view>
     </div>
 </template>
 <script>
