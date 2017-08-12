@@ -1,5 +1,5 @@
 <template>
-    <div class="footer-wrapper">
+    <div class="footer-wrapper" v-show="isShow">
       <div class="tab-footer">
         <div class="tab-item">
           <router-link to="/home">
@@ -18,7 +18,7 @@
             </router-link>
           </div>
         </div>
-        <div class="tab-item">
+        <div class="tab-item" @click="hiddenFooter">
           <router-link to="/mypet">
             <img src="./main_tab_4.png" width="42" height="40">
           </router-link>
@@ -27,7 +27,23 @@
     </div>
 </template>
 <script>
-
+  export default {
+    data () {
+      return {
+        isShow: true
+      }
+    },
+    methods: {
+      hiddenFooter () {
+        this.isShow = !this.isShow
+      }
+    },
+    watch: {
+     pageRefresh: function () {
+       location.reload()
+     }
+    },
+  }
 </script>
 <style lang="stylus" rel="stylesheet/stylus">
   .tab-footer

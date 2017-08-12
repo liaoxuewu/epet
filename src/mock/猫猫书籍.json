@@ -1,0 +1,43 @@
+{
+    "msg": "",
+    "code": "succeed",
+    "login_status": 0,
+    "mall_uid": "epet_0",
+    "mall_user": "",
+    "sys_time": 1502431533,
+    "hash": "",
+    "topadv": {},
+    "show_history": 0,
+    "cate_list": [
+        {
+            "title": "猫猫书籍",
+            "rigth_img": {
+                "image": "https://static.epetbar.com/static_wap/appmall/lib/goods/cate_right_img.png",
+                "target": {
+                    "mode": "goods_list",
+                    "param": "cateid:4225"
+                },
+                "img_size": "138x30"
+            },
+            "type": 0,
+            "flag_icon": "",
+            "list": [
+                {
+                    "id_param": "cateid_4226",
+                    "name": "《它时代》",
+                    "photo": "https://img2.epetbar.com/nowater/cates/2015-10/14/10/4a349d2ce8aeb4514af83b0429cf3c1f.jpg"
+                },
+                {
+                    "id_param": "cateid_4227",
+                    "name": "《宠物世界》",
+                    "photo": "https://img2.epetbar.com/nowater/cates/2015-10/14/10/f1c303e0270bff8a502154970d41f030.jpg"
+                },
+                {
+                    "id_param": "cateid_4228",
+                    "name": "猫猫书籍",
+                    "photo": "https://img2.epetbar.com/nowater/cates/2015-10/14/10/67e8420026d2a4c3987f382a849e483d.jpg"
+                }
+            ]
+        }
+    ]
+}

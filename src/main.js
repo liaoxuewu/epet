@@ -6,6 +6,10 @@ import router from './router'
 import { Swipe, SwipeItem, Navbar, TabItem,TabContainer, TabContainerItem,Cell } from 'mint-ui';
 import VueScroller from 'vue-scroller'
 
+import './mock/mockServer'
+import ElementUI from 'element-ui'
+import 'element-ui/lib/theme-default/index.css'
+
 Vue.component(Swipe.name, Swipe);
 Vue.component(SwipeItem.name, SwipeItem);
 Vue.component(Navbar.name, Navbar);
@@ -15,6 +19,7 @@ Vue.component(TabContainerItem.name, TabContainerItem);
 Vue.component(Cell.name, Cell);
 
 Vue.use(VueScroller)
+Vue.use(ElementUI)
 
 /* eslint-disable no-new */
 new Vue({

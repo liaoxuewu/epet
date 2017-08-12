@@ -1,0 +1,130 @@
+{
+    "msg": "",
+    "code": "succeed",
+    "login_status": 0,
+    "mall_uid": "epet_0",
+    "mall_user": "",
+    "sys_time": 1502431522,
+    "hash": "",
+    "topadv": {},
+    "show_history": 0,
+    "cate_list": [
+        {
+            "title": "猫咪装扮",
+            "rigth_img": {
+                "image": "https://static.epetbar.com/static_wap/appmall/lib/goods/cate_right_img.png",
+                "target": {
+                    "mode": "goods_list",
+                    "param": "cateid:4198"
+                },
+                "img_size": "138x30"
+            },
+            "type": 0,
+            "flag_icon": "",
+            "list": [
+                {
+                    "id_param": "cateid_4200",
+                    "name": "猫咪服饰",
+                    "photo": "https://img2.epetbar.com/nowater/cates/2015-09/18/16/9006933368d54df46c4bc16f8eb30536.jpg"
+                },
+                {
+                    "id_param": "cateid_4201",
+                    "name": "猫咪饰品",
+                    "photo": "https://img2.epetbar.com/nowater/cates/2015-09/18/16/47638b4572df097743a524c227d29da0.jpg"
+                }
+            ]
+        },
+        {
+            "title": "热门品牌",
+            "rigth_img": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "type": 2,
+            "flag_icon": "",
+            "list": [
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-09/22/8/c0dab99c5239d783320175df8998554a.jpg",
+                    "name": "Opawz",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "1424"
+                    }
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2017-01/21/10/ec41f0dc6478fd51ffe733c6cba49592.jpg",
+                    "name": "韵新Wincent",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "912"
+                    }
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2013-06/24/aba86b0caa1438bffcfc810b1bab9ee7.jpg",
+                    "name": "TouchDog",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "152"
+                    }
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-12/22/16/0c938accf5fad560187c893ddf145b2c.jpg",
+                    "name": "金冠宝贝",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "1433"
+                    }
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-12/22/16/0374086627308463217860adfea301c8.jpg",
+                    "name": "宠趣",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "1141"
+                    }
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2015-09/19/14/739e7d679f27744df6f86b0dec3f896b.jpg",
+                    "name": "妮克威尔",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "1136"
+                    }
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2015-10/16/10/4f84954098f8eec51d501666eab459ea.jpg",
+                    "name": "趣派CHEEPET",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "1004"
+                    }
+                },
+                {
+                    "logo": "https://static.epetbar.com/static_wap/appmall/lib/goods/more_brand.png",
+                    "name": "",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_list",
+                        "param": ""
+                    }
+                }
+            ]
+        }
+    ]
+}

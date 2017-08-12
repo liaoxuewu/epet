@@ -1,0 +1,91 @@
+{
+    "msg": "",
+    "code": "succeed",
+    "login_status": 0,
+    "mall_uid": "epet_0",
+    "mall_user": "",
+    "sys_time": 1502432366,
+    "hash": "",
+    "is_selected": "0",
+    "cart_tip": "小主，选中您想要的商品再进行结算噢~",
+    "orders": [
+        {
+            "wid": "1",
+            "display_name": "西部大仓",
+            "display_tip": "以下商品由西部大仓发货，全国满99元包邮，部分地区满58元包邮，支持余额支付、货到付款、在线支付!",
+            "csscode": "epetfh",
+            "cessdel": 1,
+            "is_selected": "0",
+            "tariffStart": "0.00",
+            "cart_tip": "",
+            "list": [
+                {
+                    "gid": "102821",
+                    "subject": "珍宝SANPO 鸡肉螺旋藻配方成犬粮 2kg 2kg",
+                    "photo": "https://img1.epetbar.com/2015-10/16/16/42acf80bb8a687787b442d4bae702514.jpg",
+                    "market_price": "65.00",
+                    "price": "54.00",
+                    "sale_price": "54.00",
+                    "sumprice": "54.00",
+                    "buynum": "1",
+                    "limitnum": "0",
+                    "phead": "",
+                    "buytype": "",
+                    "disable_num": "0",
+                    "stock_now": 6,
+                    "brandid": "44",
+                    "stock_tip": "还剩6袋，该出手时赶紧出手啊！",
+                    "tip": "",
+                    "tip_button": {},
+                    "hasWithbuy": 0,
+                    "withbuyTip": "",
+                    "wtid": 0,
+                    "withbuyParam": "",
+                    "is_selected": "0",
+                    "isCanSelect": true,
+                    "withbuyCount ": 0,
+                    "haspayTip": "",
+                    "hasFreeOne": 0,
+                    "freeOneTip": "",
+                    "keyword": "",
+                    "credits": 5,
+                    "icons": [],
+                    "cessTip": "",
+                    "cesspoint": "",
+                    "cessShow": 0
+                }
+            ],
+            "cessTotal": "0.00",
+            "currentprices": 0,
+            "free": 99,
+            "real_free": 99,
+            "baoyou_status": 1,
+            "baoyou_tips": "",
+            "baoyou_title": ""
+        }
+    ],
+    "isCanCheckOut": 0,
+    "icons": {
+        "epetfh": {
+            "icon": "epetfh.png",
+            "color": "#6acd34"
+        }
+    },
+    "staticUrl": "http://static.epetbar.com/www/cart/",
+    "sum": {
+        "cessDelete": 0,
+        "cessTip": "",
+        "totalnum": 0,
+        "priceFinal": "0.00",
+        "goodsNumTotal": 1
+    },
+    "redemption": {
+        "isCanRedemption": 0,
+        "tip": ""
+    },
+    "delList": 0,
+    "fishdata": {
+        "needChooseAddr": 0,
+        "fishTipMsg": ""
+    }
+}

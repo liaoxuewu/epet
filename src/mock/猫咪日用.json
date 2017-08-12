@@ -1,0 +1,150 @@
+{
+    "msg": "",
+    "code": "succeed",
+    "login_status": 0,
+    "mall_uid": "epet_0",
+    "mall_user": "",
+    "sys_time": 1502431516,
+    "hash": "",
+    "topadv": {},
+    "show_history": 0,
+    "cate_list": [
+        {
+            "title": "猫咪日用",
+            "rigth_img": {
+                "image": "https://static.epetbar.com/static_wap/appmall/lib/goods/cate_right_img.png",
+                "target": {
+                    "mode": "goods_list",
+                    "param": "cateid:936"
+                },
+                "img_size": "138x30"
+            },
+            "type": 0,
+            "flag_icon": "",
+            "list": [
+                {
+                    "id_param": "cateid_3640",
+                    "name": "猫砂专区",
+                    "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/dddda26213f5bbb2a3540693d887a0bf.jpg"
+                },
+                {
+                    "id_param": "cateid_4163",
+                    "name": "猫厕专区",
+                    "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/3bf14132d24d0cf3865e9e4e8aa5700a.jpg"
+                },
+                {
+                    "id_param": "cateid_955",
+                    "name": "猫咪清洁",
+                    "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/0664204354618f3e2334391361708a33.jpg"
+                },
+                {
+                    "id_param": "cateid_3615",
+                    "name": "猫咪餐具",
+                    "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/c28482aebd83d2d999e50641ca8102c9.jpg"
+                },
+                {
+                    "id_param": "cateid_3618",
+                    "name": "猫咪住所",
+                    "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/6f6d90f1e9538de12793a9c8160ff99f.jpg"
+                },
+                {
+                    "id_param": "cateid_4155",
+                    "name": "爱丽思",
+                    "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/3aba131af9f58a86d639849c40068b2a.jpg"
+                }
+            ]
+        },
+        {
+            "title": "热门品牌",
+            "rigth_img": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "type": 2,
+            "flag_icon": "",
+            "list": [
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/16/d97b77ca35be62ab745d4bfdd77c9a28.jpg",
+                    "name": "铁锤",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "1172"
+                    }
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-11/22/14/664c0589c309818c8858b754c4ee8343.jpg",
+                    "name": "Handipod",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "1398"
+                    }
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/16/b1ae87a1616bed78e9ae8c885d63afae.jpg",
+                    "name": "斯普威Scoop Away",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "1310"
+                    }
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/14/84a5e764173605fd49675ed60b92fe79.jpg",
+                    "name": "派锐",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "179"
+                    }
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/16/4ebb54c1762e888206e39db20a7da4af.jpg",
+                    "name": "蓝钻Ever Clean",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "395"
+                    }
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/14/4366882ae74444e33dac8565f604928d.jpg",
+                    "name": "亲宝舒",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "319"
+                    }
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/16/c60942ab078b2a5b1544cffa31bb6cff.jpg",
+                    "name": "光能净",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "836"
+                    }
+                },
+                {
+                    "logo": "https://static.epetbar.com/static_wap/appmall/lib/goods/more_brand.png",
+                    "name": "",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_list",
+                        "param": ""
+                    }
+                }
+            ]
+        }
+    ]
+}

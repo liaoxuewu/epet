@@ -1,0 +1,140 @@
+{
+    "msg": "",
+    "code": "succeed",
+    "login_status": 0,
+    "mall_uid": "epet_0",
+    "mall_user": "",
+    "sys_time": 1502431524,
+    "hash": "",
+    "topadv": {},
+    "show_history": 0,
+    "cate_list": [
+        {
+            "title": "猫咪美容",
+            "rigth_img": {
+                "image": "https://static.epetbar.com/static_wap/appmall/lib/goods/cate_right_img.png",
+                "target": {
+                    "mode": "goods_list",
+                    "param": "cateid:4204"
+                },
+                "img_size": "138x30"
+            },
+            "type": 0,
+            "flag_icon": "",
+            "list": [
+                {
+                    "id_param": "cateid_4205",
+                    "name": "洗澡工具",
+                    "photo": "https://img2.epetbar.com/nowater/cates/2015-09/21/10/287b74d7d6684209c427d07885db63f9.jpg"
+                },
+                {
+                    "id_param": "cateid_4206",
+                    "name": "梳剪工具",
+                    "photo": "https://img2.epetbar.com/nowater/cates/2015-09/21/12/96d0af827e5fbe81a9745bf25d214639.jpg"
+                },
+                {
+                    "id_param": "cateid_4207",
+                    "name": "护理工具",
+                    "photo": "https://img2.epetbar.com/nowater/cates/2015-09/21/14/d7c5313e7b7e6cbd915d38d17a6b0bc9.jpg"
+                },
+                {
+                    "id_param": "cateid_4208",
+                    "name": "美容配套",
+                    "photo": "https://img2.epetbar.com/nowater/cates/2015-09/21/14/3647c807a898808748c1beb1d4601ac6.jpg"
+                }
+            ]
+        },
+        {
+            "title": "热门品牌",
+            "rigth_img": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "type": 2,
+            "flag_icon": "",
+            "list": [
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/16/5774d616c74b3eda50a9bc8d79220a6c.jpg",
+                    "name": "华尔Wahl",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "1030"
+                    }
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2015-08/24/8/2a5beacb3dc03426c733e3f19fc72118.jpg",
+                    "name": "派克瑞",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "989"
+                    }
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2015-08/31/12/18b349bfa793c6869f64241c197fdfea.jpg",
+                    "name": "安蔻儿ANCOL",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "944"
+                    }
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/16/392c99473983f25db9faf4f02ef67cfa.jpg",
+                    "name": "猫乐适",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "860"
+                    }
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/14/d2d544344f481f164c4e74b107a9143b.jpg",
+                    "name": "科德士",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "675"
+                    }
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2013-06/29/585a5e4dc69d6de295380ab5a8f1599d.jpg",
+                    "name": "酷迪KUDI",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "7"
+                    }
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/14/11353cde75355117b223aa31f3a97a77.jpg",
+                    "name": "哈罗佩特",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "5"
+                    }
+                },
+                {
+                    "logo": "https://static.epetbar.com/static_wap/appmall/lib/goods/more_brand.png",
+                    "name": "",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_list",
+                        "param": ""
+                    }
+                }
+            ]
+        }
+    ]
+}

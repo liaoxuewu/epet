@@ -21,6 +21,23 @@ var autoOpenBrowser = !!config.dev.autoOpenBrowser
 var proxyTable = config.dev.proxyTable
 
 var app = express()
+//mock data begin
+
+//加载所有数据
+const data = require('../src/mock/data.json')
+const indexpage = data.indexpage
+//得到路由器
+const apiRouter = express.Router()
+apiRouter.get('/indexpage',function (req,res) {
+  res.send({
+    code: 0, //0代表正确数据
+    data: data.indexpage
+  })
+})
+
+//启动路由器
+app.use('/api',apiRouter)
+//mock data end
 var compiler = webpack(webpackConfig)
 
 var devMiddleware = require('webpack-dev-middleware')(compiler, {

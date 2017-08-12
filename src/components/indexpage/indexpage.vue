@@ -5,8 +5,8 @@
       <div class="swiper">
         <mt-swipe :auto="4000">
           <mt-swipe-item>
-            <a href="">
-              <img src="./swiper1.jpg" alt="">
+            <a href="javascript:;">
+              <img src="./swiper2.jpg" alt="">
             </a>
           </mt-swipe-item>
           <mt-swipe-item>
@@ -76,10 +76,10 @@
             <img src="./suprise_logo.png" alt="">
           </div>
           <span>距本场结束</span>
-          <div class="time">
-            <span class="time1">12</span>:
-            <span class="time2">12</span>:
-            <span class="time3">12</span>
+          <div id="time">
+            <span id="sec" class="time1"></span>:
+            <span id="mini" class="time2"></span>:
+            <span id="hour" class="time3"></span>
           </div>
           <div class="surprise-more">
             <a href="">
@@ -90,25 +90,25 @@
         <div class="surprise-item">
           <ul class="item-content">
             <li class="item">
-              <a href="">
-                <img src="./surprise_item1.jpg" alt="">
+              <a href="javascript:;">
+                <img src="https://img1.epetbar.com/2017-02/24/16/569d80053378286bdcf1e5a517aebe2e.jpg@!300w-b">
               </a>
-              <span style="color: red;font-size: 16px">￥149.00</span>
-              <p>省￥36.00</p>
+              <span style="color: red;font-size: 16px">￥189.00</span>
+              <p>省￥21.00</p>
             </li>
             <li class="item">
-              <a href="">
-                <img src="./surprise_item1.jpg" alt="">
+              <a href="javascript:;">
+                <img data-src="https://img1.epetbar.com/2016-09/24/10/495d4b3a9eb276c5095a449fca3de1e2.jpg@!300w-b" class="image" data-reactid=".0.1.1.0.3.0.1.0.0.1.0.0.0.0" src="https://img1.epetbar.com/2016-09/24/10/495d4b3a9eb276c5095a449fca3de1e2.jpg@!300w-b">
               </a>
-              <span style="color: red;font-size: 16px">￥149.00</span>
-              <p>省￥36.00</p>
+              <span style="color: red;font-size: 16px">￥15.00</span>
+              <p>省￥6.00</p>
             </li>
             <li class="item">
-              <a href="">
-                <img src="./surprise_item1.jpg" alt="">
+              <a href="javascript:;">
+                <img data-src="https://img1.epetbar.com/2016-03/29/10/a0312ea07b2ce3454c723a462e7634e0.jpg@!300w-b" class="image" data-reactid=".0.1.1.0.3.0.1.0.0.2.0.0.0.0" src="https://img1.epetbar.com/2016-03/29/10/a0312ea07b2ce3454c723a462e7634e0.jpg@!300w-b">
               </a>
-              <span style="color: red;font-size: 16px">￥149.00</span>
-              <p>省￥36.00</p>
+              <span style="color: red;font-size: 16px">￥19.90</span>
+              <p>省￥7.10</p>
             </li>
           </ul>
         </div>
@@ -127,7 +127,7 @@
             <img src="./hot-diving-pic.jpg" alt="">
           </div>
           <div class="img2">
-            <img src="./hot-diving-pic.jpg" alt="">
+            <a href="http://wap.epet.com/catshop/main.html?fw=0" data-reactid=".0.1.1.0.5.0.1.1.1"><img data-src="https://img2.epetbar.com/nowater/2017-03/16/12/8effccc6ec692af5980cbb231ea22583.jpg@!water" name="430" data-reactid=".0.1.1.0.5.0.1.1.1.0" src="https://img2.epetbar.com/nowater/2017-03/16/12/8effccc6ec692af5980cbb231ea22583.jpg@!water"></a>
           </div>
         </div>
       </div>
@@ -169,27 +169,17 @@
           <mt-swipe :auto="4000">
             <mt-swipe-item>
               <a href="">
-                <img src="./swiper1.jpg" alt="">
+                <img data-src="https://img2.epetbar.com/nowater/2017-08/04/14/56c9cacaaa8e59c9ba5147740b380db6.jpg@!water" data-reactid=".0.1.1.0.b.0.0.0.0.0" src="https://img2.epetbar.com/nowater/2017-08/04/14/56c9cacaaa8e59c9ba5147740b380db6.jpg@!water">
               </a>
             </mt-swipe-item>
             <mt-swipe-item>
-              <a href="">
-                <img src="./swiper2.jpg" alt="">
+              <a href="javascript:;">
+                <img data-src="https://img2.epetbar.com/nowater/2017-08/04/14/b5d0f4e080535d205693697f0cb18087.jpg@!water" data-reactid=".0.1.1.0.b.0.0.2.0.0" src="https://img2.epetbar.com/nowater/2017-08/04/14/b5d0f4e080535d205693697f0cb18087.jpg@!water">
               </a>
             </mt-swipe-item>
             <mt-swipe-item>
-              <a href="">
-                <img src="./swiper3.jpg" alt="">
-              </a>
-            </mt-swipe-item>
-            <mt-swipe-item>
-              <a href="">
-                <img src="./swiper4.png" alt="">
-              </a>
-            </mt-swipe-item>
-            <mt-swipe-item>
-              <a href="">
-                <img src="./swiper5.png" alt="">
+              <a href="javascript:;">
+                <img data-src="https://img2.epetbar.com/nowater/2017-08/04/14/56c9cacaaa8e59c9ba5147740b380db6.jpg@!water" data-reactid=".0.1.1.0.b.0.0.0.0.0" src="https://img2.epetbar.com/nowater/2017-08/04/14/56c9cacaaa8e59c9ba5147740b380db6.jpg@!water">
               </a>
             </mt-swipe-item>
           </mt-swipe>
@@ -206,12 +196,23 @@
       <div class="line"></div>
       <div class="data">
         <div class="data-text">
-          <span>我的日期不完美</span>&nbsp;
-          <span style="font-size: 12px;color: #999">大降临期一折起</span>
+          <span>品牌特卖-伯纳天纯</span>&nbsp;
+          <span style="font-size: 12px;color: #999"></span>
         </div>
         <div class="data-img">
           <a href="">
-            <img src="./data_img.jpg" alt="">
+            <img data-src="https://img2.epetbar.com/nowater/2017-07/03/8/43d67aca2e763de4f1bb2bd5e469d1d7.jpg@!water" data-reactid=".0.1.1.0.g.0.1:0.0.0" src="https://img2.epetbar.com/nowater/2017-07/03/8/43d67aca2e763de4f1bb2bd5e469d1d7.jpg@!water">
+          </a>
+        </div>
+      </div>
+      <div class="nature">
+        <div class="nature-text">
+          <span>品牌特卖-</span>&nbsp;
+          <span style="font-size: 12px;color: #999">医仕高</span>
+        </div>
+        <div class="nature-img">
+          <a href="">
+            <img data-src="https://img2.epetbar.com/nowater/2017-06/21/12/d93a582ada125b43e81b30655fb69030.jpg@!water" data-reactid=".0.1.1.0.j.0.1:0.0.0" src="https://img2.epetbar.com/nowater/2017-06/21/12/d93a582ada125b43e81b30655fb69030.jpg@!water">
           </a>
         </div>
       </div>
@@ -283,7 +284,6 @@
       <div class="rating">
         <div class="rating-logo">
           <i>
-
           </i>
           <span>好评率99.64%</span>
         </div>
@@ -328,6 +328,10 @@
 
           </li>
           <li class="rating-item">
+            <div class="rating-img" width="20" height="20">
+              <img width="20" height="20" data-src="https://img1.epetbar.com/2017-02/03/12/2bfa814e0924d3c870a2b758c335b18d.jpg" class="image" data-reactid=".0.1.1.0.14.0.1.0.1.0.0.0.0.0" src="https://img1.epetbar.com/2017-02/03/12/2bfa814e0924d3c870a2b758c335b18d.jpg">
+            </div>
+
             <div class="join-data">
               加入E宠2年0月
             </div>
@@ -349,28 +353,140 @@
 </template>
 <script>
   import BScroll from 'better-scroll'
+  import axios from 'axios'
   import split from '../split/split.vue'
 
+  const OK = 0
   export default {
-      created () {
-        //console.log(this)
-        /*this.$nextTick(() => {
-         new BScroll(this.$refs.content, {
-         click: true //响应点击事件
-         })
-         })*/
+    props: {
+      headerY: Number,
+      addFix: Function,
+    },
+      data () {
+        return {
+          scrollY: 0,
+          contentTop: 0,
+          indexpage: {},
+          menus: [],
+        }
       },
-    components: {
-      split
-    }
+      created () {
+
+        //console.log(this)
+        this.$nextTick(() => {
+          var d = Date.UTC(2030, 6, 27, 16, 34);
+          var obj = {
+            sec: document.getElementById("hour"),
+            mini: document.getElementById("mini"),
+            hour: document.getElementById("sec")
+          }
+          this.fnTimeCountDown(d, obj);
+          this._initScroll()
+          this.contentTop = document.getElementsByClassName('content-wrapper')[0].offsetTop
+          //console.log(this)
+          if(this.contentTop < this.headerY) {
+            this.addFix()
+          }
+         })
+        axios.get('/api/indexpage')
+          .then(response => {
+            const result = response.data
+            //console.log(result)
+            if (result.code === OK) {
+              this.indexpage = result.data
+
+            }
+          })
+      },
+      methods: {
+        _initScroll () {
+          this.contentScroll =new BScroll(this.$refs.content, {
+            probeType: 3, //手指move的时候触发scroll事件
+            click: true //响应点击事件
+          })
+          this.contentScroll.on('scroll',(pos) => {
+            //console.log(pos.y)
+            this.scrollY = Math.abs(pos.y);
+            if(this.scrollY) {
+              this.addFix()
+            }
+          })
+        },
+        fnTimeCountDown (d, o){
+        var f = {
+          zero: function(n){
+            var n = parseInt(n, 10);
+            if(n > 0){
+              if(n <= 9){
+                n = "0" + n;
+              }
+              return String(n);
+            }else{
+              return "00";
+            }
+          },
+          dv: function(){
+            d = d || Date.UTC(2050, 0, 1); //如果未定义时间，则我们设定倒计时日期是2050年1月1日
+            var future = new Date(d), now = new Date();
+            //现在将来秒差值
+            var dur = Math.round((future.getTime() - now.getTime()) / 1000) + future.getTimezoneOffset() * 60, pms = {
+              sec: "00",
+              mini: "00",
+              hour: "00",
+              day: "00",
+              month: "00",
+              year: "0"
+            };
+            if(dur > 0){
+              pms.sec = f.zero(dur % 60);
+              pms.mini = Math.floor((dur / 60)) > 0? f.zero(Math.floor((dur / 60)) % 60) : "00";
+              pms.hour = Math.floor((dur / 3600)) > 0? f.zero(Math.floor((dur / 3600)) % 24) : "00";
+              pms.day = Math.floor((dur / 86400)) > 0? f.zero(Math.floor((dur / 86400)) % 30) : "00";
+              //月份，以实际平均每月秒数计算
+              pms.month = Math.floor((dur / 2629744)) > 0? f.zero(Math.floor((dur / 2629744)) % 12) : "00";
+              //年份，按按回归年365天5时48分46秒算
+              pms.year = Math.floor((dur / 31556926)) > 0? Math.floor((dur / 31556926)) : "0";
+            }
+            return pms;
+          },
+          ui: function(){
+            if(o.sec){
+              o.sec.innerHTML = f.dv().sec;
+            }
+            if(o.mini){
+              o.mini.innerHTML = f.dv().mini;
+            }
+            if(o.hour){
+              o.hour.innerHTML = f.dv().hour;
+            }
+            if(o.day){
+              o.day.innerHTML = f.dv().day;
+            }
+            if(o.month){
+              o.month.innerHTML = f.dv().month;
+            }
+            if(o.year){
+              o.year.innerHTML = f.dv().year;
+            }
+            setTimeout(f.ui, 1000);
+          }
+        };
+        f.ui();
+      }
+      },
+      components: {
+        split
+      }
   }
 </script>
 <style lang="stylus" rel="stylesheet/stylus">
   .content-wrapper
     position relative
+    z-index -100
     .content
       position absolute
       margin-top 2px
+      top 0
       .swiper
         width 100%
         height 160px
@@ -398,14 +514,20 @@
       .surprise-wrapper
         margin-top 10px
         .surprise-time
+          font-size 13px
           .surprise-logo
             display inline-block
             width 30%
             vertical-align middle
             img
               width 100%
-          .time
+          #time
             display inline-block
+            span
+              width 21px
+              height 21px
+              border 1px solid #E7E7E7
+              margin 0 5px 0 5px
           .surprise-more
             display inline-block
             vertical-align middle
@@ -448,13 +570,13 @@
           width 60%
           .img1
             display inline-block
-            width 90%
+            width 100%
             img
               width 100%
               height 95px
           .img2
             display inline-block
-            width 90%
+            width 100%
             img
               width 100%
               height 95px
@@ -468,6 +590,7 @@
             height 50px
             background url("./home-video-pic.png") no-repeat
             background-size 100%
+            margin-left 50px
           img
             height 50px
             float right
@@ -512,6 +635,7 @@
             height 50px
             background url("./exprience_logo.png") no-repeat
             background-size 100%
+            margin-left 50px
           img
             height 50px
             float right
@@ -531,6 +655,7 @@
             height 50px
             background url("./special_logo.png") no-repeat
             background-size 100%
+            margin-left 50px
           img
             height 50px
             float right
@@ -541,7 +666,7 @@
       .data
         margin 10px 0
         .data-text
-          margin-left 10px
+          margin 10px
           font-size 15px
         .data-img
           width 100%
@@ -552,7 +677,7 @@
       .nature
         margin 10px 0
         .nature-text
-          margin-left 10px
+          margin 10px
           font-size 15px
         .nature-img
           width 100%

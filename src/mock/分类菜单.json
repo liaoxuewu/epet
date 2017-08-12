@@ -1,0 +1,63 @@
+﻿{
+    "msg": "",
+    "code": "succeed",
+    "login_status": 0,
+    "mall_uid": "epet_0",
+    "mall_user": "",
+    "sys_time": 1502413102,
+    "hash": "",
+    "categorys": [
+        {
+            "cateid": 88888,
+            "name": "为您推荐"
+        },
+        {
+            "cateid": "721",
+            "name": "猫咪主粮"
+        },
+        {
+            "cateid": "3580",
+            "name": "猫咪零食"
+        },
+        {
+            "cateid": "936",
+            "name": "猫咪日用"
+        },
+        {
+            "cateid": "958",
+            "name": "猫咪玩具"
+        },
+        {
+            "cateid": "3627",
+            "name": "猫咪保健"
+        },
+        {
+            "cateid": "3620",
+            "name": "猫咪医疗"
+        },
+        {
+            "cateid": "4196",
+            "name": "猫咪出行"
+        },
+        {
+            "cateid": "4198",
+            "name": "猫咪装扮"
+        },
+        {
+            "cateid": "4204",
+            "name": "猫咪美容"
+        },
+        {
+            "cateid": "4209",
+            "name": "猫咪香波"
+        },
+        {
+            "cateid": "4215",
+            "name": "猫咪周边"
+        },
+        {
+            "cateid": "4216",
+            "name": "猫咪定制"
+        }
+    ]
+}

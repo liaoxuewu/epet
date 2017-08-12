@@ -1,0 +1,140 @@
+{
+    "msg": "",
+    "code": "succeed",
+    "login_status": 0,
+    "mall_uid": "epet_0",
+    "mall_user": "",
+    "sys_time": 1502413126,
+    "hash": "",
+    "topadv": {},
+    "show_history": 0,
+    "cate_list": [
+        {
+            "title": "猫咪主粮",
+            "rigth_img": {
+                "image": "https://static.epetbar.com/static_wap/appmall/lib/goods/cate_right_img.png",
+                "target": {
+                    "mode": "goods_list",
+                    "param": "cateid:721"
+                },
+                "img_size": "138x30"
+            },
+            "type": 0,
+            "flag_icon": "",
+            "list": [
+                {
+                    "id_param": "cateid_722",
+                    "name": "进口猫粮",
+                    "photo": "https://img2.epetbar.com/nowater/2016-07/21/14/24857d999c8c62a85110c66f1ebcf3ac.jpg"
+                },
+                {
+                    "id_param": "cateid_3581",
+                    "name": "国产猫粮",
+                    "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/18758f3b73044e523c04b9513f8a6d53.jpg"
+                },
+                {
+                    "id_param": "cateid_4181",
+                    "name": "拆零试吃",
+                    "photo": "https://img2.epetbar.com/nowater/cates/2015-04/08/08eafdca649a0b5cee6323af756f450f.jpg"
+                },
+                {
+                    "id_param": "cateid_3584",
+                    "name": "处方猫粮",
+                    "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/91b72c999f5a69f527abfbe8ff74620c.jpg"
+                }
+            ]
+        },
+        {
+            "title": "热门品牌",
+            "rigth_img": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "type": 2,
+            "flag_icon": "",
+            "list": [
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/14/a28772411fc9851363c580fd015ade41.jpg",
+                    "name": "美士",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "483"
+                    }
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-10/26/12/a26031416312ee07a7740210c1498b24.jpg",
+                    "name": "巴西淘淘力派",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "103"
+                    }
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/14/17f86c4bc86565f0bcefc596bfb9cdb8.jpg",
+                    "name": "荒野盛宴",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "599"
+                    }
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2014-08/14/72ce08681ee6e622c42c4ed7b15fcfea.jpg",
+                    "name": "维采 Vets Choice",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "895"
+                    }
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/14/436a1eeeb8fdb467fcf70c104286f98e.jpg",
+                    "name": "鱼子酱Canine Caviar",
+                    "recommend": 1,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "198"
+                    }
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/14/f439e0dc22df3f6c5bc8919b8d9e5c82.jpg",
+                    "name": "卡比CANIDAE",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "19"
+                    }
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/14/0f3829b8dac7ac968c8ca868c901b4c1.jpg",
+                    "name": "NOW FRESH",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "3"
+                    }
+                },
+                {
+                    "logo": "https://static.epetbar.com/static_wap/appmall/lib/goods/more_brand.png",
+                    "name": "",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_list",
+                        "param": ""
+                    }
+                }
+            ]
+        }
+    ]
+}

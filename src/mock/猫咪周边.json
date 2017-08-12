@@ -1,0 +1,43 @@
+{
+    "msg": "",
+    "code": "succeed",
+    "login_status": 0,
+    "mall_uid": "epet_0",
+    "mall_user": "",
+    "sys_time": 1502431528,
+    "hash": "",
+    "topadv": {},
+    "show_history": 0,
+    "cate_list": [
+        {
+            "title": "猫咪周边",
+            "rigth_img": {
+                "image": "https://static.epetbar.com/static_wap/appmall/lib/goods/cate_right_img.png",
+                "target": {
+                    "mode": "goods_list",
+                    "param": "cateid:4215"
+                },
+                "img_size": "138x30"
+            },
+            "type": 0,
+            "flag_icon": "",
+            "list": [
+                {
+                    "id_param": "cateid_4217",
+                    "name": "生活用品",
+                    "photo": "https://img2.epetbar.com/nowater/cates/2015-09/22/10/e931dcd621cbc0e342de7b575cae3adc.jpg"
+                },
+                {
+                    "id_param": "cateid_4290",
+                    "name": "猫猫书籍",
+                    "photo": "https://img2.epetbar.com/nowater/2017-05/05/10/9225def288277f504d9232669e1842a5.jpg"
+                },
+                {
+                    "id_param": "cateid_4295",
+                    "name": "E宠周边",
+                    "photo": "https://img2.epetbar.com/nowater/2017-05/05/14/46f306b993d37a2edf49cb4e92930855.jpg"
+                }
+            ]
+        }
+    ]
+}

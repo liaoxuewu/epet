@@ -1,0 +1,54 @@
+{
+    "msg": "",
+    "code": "succeed",
+    "login_status": 0,
+    "mall_uid": "epet_0",
+    "mall_user": "",
+    "sys_time": 1502413102,
+    "hash": "",
+    "show_history": 1,
+    "cate_list": [
+        {
+            "title": "热门分类",
+            "rigth_img": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "type": 0,
+            "flag_icon": "",
+            "list": [
+                {
+                    "id_param": "cateid_3631",
+                    "name": "强化免疫",
+                    "photo": "https://img2.epetbar.com/nowater/2016-08/20/14/c122bda1f10770c115fe2c765f5b9e83.jpg"
+                },
+                {
+                    "id_param": "cateid_722",
+                    "name": "进口猫粮",
+                    "photo": "https://img2.epetbar.com/nowater/2016-07/21/14/24857d999c8c62a85110c66f1ebcf3ac.jpg"
+                },
+                {
+                    "id_param": "cateid_947",
+                    "name": "罐头湿粮",
+                    "photo": "https://img2.epetbar.com/nowater/2017-05/26/10/209951b1f61083be7bba561de378316c.jpg"
+                },
+                {
+                    "id_param": "cateid_3630",
+                    "name": "美毛化毛",
+                    "photo": "https://img2.epetbar.com/nowater/2016-08/20/14/db87afdd8179689ef67c0e352e7c2183.jpg"
+                },
+                {
+                    "id_param": "cateid_3621",
+                    "name": "体内驱虫",
+                    "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/2da82a732a1b0df918dfeb38f6b32621.jpg"
+                },
+                {
+                    "id_param": "cateid_3640",
+                    "name": "猫砂专区",
+                    "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/dddda26213f5bbb2a3540693d887a0bf.jpg"
+                }
+            ]
+        }
+    ]
+}

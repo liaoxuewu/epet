@@ -1,0 +1,145 @@
+{
+    "msg": "",
+    "code": "succeed",
+    "login_status": 0,
+    "mall_uid": "epet_0",
+    "mall_user": "",
+    "sys_time": 1502431525,
+    "hash": "",
+    "topadv": {},
+    "show_history": 0,
+    "cate_list": [
+        {
+            "title": "猫咪香波",
+            "rigth_img": {
+                "image": "https://static.epetbar.com/static_wap/appmall/lib/goods/cate_right_img.png",
+                "target": {
+                    "mode": "goods_list",
+                    "param": "cateid:4209"
+                },
+                "img_size": "138x30"
+            },
+            "type": 0,
+            "flag_icon": "",
+            "list": [
+                {
+                    "id_param": "cateid_4210",
+                    "name": "专用配方",
+                    "photo": "https://img2.epetbar.com/nowater/cates/2015-09/21/14/2c9ba577b7f1a4bb4c0b86804067420d.jpg"
+                },
+                {
+                    "id_param": "cateid_4211",
+                    "name": "皮肤护理",
+                    "photo": "https://img2.epetbar.com/nowater/cates/2015-09/21/14/6778311e99795ac27959cb95d0b5e82c.jpg"
+                },
+                {
+                    "id_param": "cateid_4212",
+                    "name": "日常香波",
+                    "photo": "https://img2.epetbar.com/nowater/cates/2015-09/21/14/5dd515848b09419530472c4f8d4754de.jpg"
+                },
+                {
+                    "id_param": "cateid_4213",
+                    "name": "护毛素",
+                    "photo": "https://img2.epetbar.com/nowater/cates/2015-09/21/14/2cd3f40e681eb91d25cfa5f12af361fd.jpg"
+                },
+                {
+                    "id_param": "cateid_4214",
+                    "name": "免洗干洗",
+                    "photo": "https://img2.epetbar.com/nowater/cates/2015-09/21/14/c7e09f01133e532e83aaaf2a3db317e1.jpg"
+                }
+            ]
+        },
+        {
+            "title": "热门品牌",
+            "rigth_img": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "type": 2,
+            "flag_icon": "",
+            "list": [
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/16/82da30893d21c62b0050b9d43b5f7482.jpg",
+                    "name": "伊珊娜ISB",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "986"
+                    }
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2013-06/27/d476f0aa869c7b092c2c8884721feb53.jpg",
+                    "name": "顶间",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "11"
+                    }
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/2016-08/18/16/92371ab34de0ea12b67028d6625c5180.jpg",
+                    "name": "雷米高",
+                    "recommend": 0,
+                    "tagongyi": 1,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "17"
+                    }
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/14/f9defd4ee9d5d58ed017fb32c355dbb7.jpg",
+                    "name": "澳路雪",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "199"
+                    }
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/14/b8512c2291b101cfd9cc2b9296111ec5.jpg",
+                    "name": "东方森草",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "340"
+                    }
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2013-06/29/48e9b2524e188dede0282f95f183af1f.jpg",
+                    "name": "贝特爱思",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "341"
+                    }
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/14/50f192f873ba9141cb65a53b5c10dc5a.jpg",
+                    "name": "旺芙",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "343"
+                    }
+                },
+                {
+                    "logo": "https://static.epetbar.com/static_wap/appmall/lib/goods/more_brand.png",
+                    "name": "",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_list",
+                        "param": ""
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+/* chrome-extension://pkgccpejnmalmdinmhkkfafefagiiiad/template/fehelper_jsonformat.html */
+{
+    "msg": "",
+    "code": "succeed",
+    "login_status": 0,
+    "mall_uid": "epet_0",
+    "mall_user": "",
+    "sys_time": 1502431530,
+    "hash": "",
+    "topadv": {},
+    "show_history": 0,
+    "cate_list": [
+        {
+            "title": "猫咪定制",
+            "rigth_img": {
+                "image": "https://static.epetbar.com/static_wap/appmall/lib/goods/cate_right_img.png",
+                "target": {
+                    "mode": "goods_list",
+                    "param": "cateid:4216"
+                },
+                "img_size": "138x30"
+            },
+            "type": 0,
+            "flag_icon": "",
+            "list": [
+                {
+                    "id_param": "cateid_4223",
+                    "name": "宠物身份牌",
+                    "photo": "https://img2.epetbar.com/nowater/cates/2015-09/22/14/38bc6ba3b6788018b725b7624498b5d2.jpg"
+                },
+                {
+                    "id_param": "cateid_4291",
+                    "name": "猫咪摄影",
+                    "photo": "https://img2.epetbar.com/nowater/2017-05/02/18/428e6637d7a63dd1651830e8643a3e74.jpg"
+                }
+            ]
+        }
+    ]
+}

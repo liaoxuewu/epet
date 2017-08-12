@@ -1,0 +1,140 @@
+{
+    "msg": "",
+    "code": "succeed",
+    "login_status": 0,
+    "mall_uid": "epet_0",
+    "mall_user": "",
+    "sys_time": 1502431517,
+    "hash": "",
+    "topadv": {},
+    "show_history": 0,
+    "cate_list": [
+        {
+            "title": "猫咪玩具",
+            "rigth_img": {
+                "image": "https://static.epetbar.com/static_wap/appmall/lib/goods/cate_right_img.png",
+                "target": {
+                    "mode": "goods_list",
+                    "param": "cateid:958"
+                },
+                "img_size": "138x30"
+            },
+            "type": 0,
+            "flag_icon": "",
+            "list": [
+                {
+                    "id_param": "cateid_3546",
+                    "name": "磨爪玩具",
+                    "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/64667898fdaac04469ba40bc2ee918e2.jpg"
+                },
+                {
+                    "id_param": "cateid_3547",
+                    "name": "爬架/家具",
+                    "photo": "https://img2.epetbar.com/nowater/cates/2015-10/17/10/e3024ac8c5b63929cb6a9be790fadc2b.jpg"
+                },
+                {
+                    "id_param": "cateid_3639",
+                    "name": "休闲玩具",
+                    "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/17a963042c12d69bc70ba8b48a0b5340.jpg"
+                },
+                {
+                    "id_param": "cateid_4184",
+                    "name": "逗猫棒/杆",
+                    "photo": "https://img2.epetbar.com/nowater/cates/2015-04/25/8302e2a9dae87d76780490be24a57260.jpg"
+                }
+            ]
+        },
+        {
+            "title": "热门品牌",
+            "rigth_img": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "type": 2,
+            "flag_icon": "",
+            "list": [
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2015-08/21/16/4300434c05f0d857f124e9d9541318a9.jpg",
+                    "name": "哈根Hagen",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "1068"
+                    }
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/16/9bf7543528fec2029fd07856f04217a8.jpg",
+                    "name": "田田猫",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "882"
+                    }
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/14/06eab5603e8330c0245d622d93ef85f9.jpg",
+                    "name": "Smarty Kat",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "437"
+                    }
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2015-08/12/10/0f8170aae7f1f7d70523f4304a225833.jpg",
+                    "name": "AFP",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "952"
+                    }
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/16/ce7e1b38a92a51b517efc03a004c777d.jpg",
+                    "name": "R2P",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "963"
+                    }
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/16/840cf595042b281ca00aeeadee6c337f.jpg",
+                    "name": "GiGwi",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "1390"
+                    }
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/14/eaf71f0de8b9f253e5d9cb1421fc7672.jpg",
+                    "name": "Amycarol",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "57"
+                    }
+                },
+                {
+                    "logo": "https://static.epetbar.com/static_wap/appmall/lib/goods/more_brand.png",
+                    "name": "",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_list",
+                        "param": ""
+                    }
+                }
+            ]
+        }
+    ]
+}

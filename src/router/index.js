@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import indexpage from '../components/index/indexpage.vue'
+import indexpage from '../components/indexpage/indexpage.vue'
 import catfood from '../components/catfood/catfood.vue'
 import specialsell from '../components/specialsell/specialsell.vue'
 import tinshop from '../components/tinshop/tinshop.vue'

@@ -1,0 +1,150 @@
+{
+    "msg": "",
+    "code": "succeed",
+    "login_status": 0,
+    "mall_uid": "epet_0",
+    "mall_user": "",
+    "sys_time": 1502431519,
+    "hash": "",
+    "topadv": {},
+    "show_history": 0,
+    "cate_list": [
+        {
+            "title": "猫咪保健",
+            "rigth_img": {
+                "image": "https://static.epetbar.com/static_wap/appmall/lib/goods/cate_right_img.png",
+                "target": {
+                    "mode": "goods_list",
+                    "param": "cateid:3627"
+                },
+                "img_size": "138x30"
+            },
+            "type": 0,
+            "flag_icon": "",
+            "list": [
+                {
+                    "id_param": "cateid_3631",
+                    "name": "强化免疫",
+                    "photo": "https://img2.epetbar.com/nowater/2016-08/20/14/c122bda1f10770c115fe2c765f5b9e83.jpg"
+                },
+                {
+                    "id_param": "cateid_3629",
+                    "name": "补钙强骨",
+                    "photo": "https://img2.epetbar.com/nowater/2016-08/20/14/77ea736ec3a3073ecc1f7a26067785a4.jpg"
+                },
+                {
+                    "id_param": "cateid_4185",
+                    "name": "关节呵护",
+                    "photo": "https://img2.epetbar.com/nowater/2016-08/20/14/a20d6e6973e82add239e91962c62befa.jpg"
+                },
+                {
+                    "id_param": "cateid_3628",
+                    "name": "微量元素",
+                    "photo": "https://img2.epetbar.com/nowater/2016-08/20/14/37e62303d84fbde4319de47e507606dc.jpg"
+                },
+                {
+                    "id_param": "cateid_3630",
+                    "name": "美毛化毛",
+                    "photo": "https://img2.epetbar.com/nowater/2016-08/20/14/db87afdd8179689ef67c0e352e7c2183.jpg"
+                },
+                {
+                    "id_param": "cateid_3632",
+                    "name": "肠胃调理",
+                    "photo": "https://img2.epetbar.com/nowater/2017-05/04/16/76bedffcc50b78ce6428f37a7e3e9d14.jpg"
+                }
+            ]
+        },
+        {
+            "title": "热门品牌",
+            "rigth_img": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "type": 2,
+            "flag_icon": "",
+            "list": [
+                {
+                    "logo": "https://img2.epetbar.com/nowater/2016-08/18/16/31b7dfdd08ce602f1239ae8ce7954802.jpg",
+                    "name": "麦德氏",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "186"
+                    }
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2015-10/17/12/d9e05c4a2d35c88ffee0dcec98fba6a4.jpg",
+                    "name": "MAG",
+                    "recommend": 0,
+                    "tagongyi": 1,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "830"
+                    }
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/16/276527f25e9151ef48b0b8d2dba79d29.jpg",
+                    "name": "谷登GOLDEN",
+                    "recommend": 0,
+                    "tagongyi": 1,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "829"
+                    }
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/14/3259b85b08dcc0054e6c24b585905d28.jpg",
+                    "name": "K9 Super Health",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "104"
+                    }
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/14/df67486fca926e53a4352e12250f87d1.jpg",
+                    "name": "红狗RedDog",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "380"
+                    }
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/13/16/be4c1125ac976e9771117a59af6d874e.jpg",
+                    "name": "小宠",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "205"
+                    }
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2013-07/22/3e4baa5eea4b78baea029a729c21d604.jpg",
+                    "name": "发育宝",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "36"
+                    }
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/16/0b3e9a36e1e8a402b8d2048a5fa576e5.jpg",
+                    "name": "先牧仕PIOMOS",
+                    "recommend": 0,
+                    "tagongyi": 0,
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "954"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -891,8 +891,8 @@
   .cat-type-list
     overflow hidden
     li
-      float: left
-      width: 100%
+      float left
+      width 100%
       display flex
       /*border-1px(#e7e7e7)*/
       .img

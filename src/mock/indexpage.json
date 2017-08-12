@@ -1,0 +1,1136 @@
+{
+    "msg": "",
+    "code": "succeed",
+    "login_status": 0,
+    "mall_uid": "epet_0",
+    "mall_user": "",
+    "sys_time": 1502423444,
+    "hash": "",
+    "is_dynamic": 0,
+    "menus": [
+        {
+            "menu_id": "59",
+            "menu_name": "首页",
+            "menu_param": "1",
+            "menu_font_color": "#e73f85",
+            "menu_line_color": "#e73f85",
+            "menu_icon": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "menu_target": "",
+            "menu_type": 0,
+            "menu_image": {
+                "image": "",
+                "img_size": "",
+                "selected_image": ""
+            },
+            "menu_shareid": "1"
+        },
+        {
+            "menu_id": "61",
+            "menu_name": "猫粮",
+            "menu_param": "3",
+            "menu_font_color": "#e73f85",
+            "menu_line_color": "#e73f85",
+            "menu_icon": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "menu_target": "",
+            "menu_type": 0,
+            "menu_image": {
+                "image": "",
+                "img_size": "",
+                "selected_image": ""
+            },
+            "menu_shareid": "61"
+        },
+        {
+            "menu_id": "62",
+            "menu_name": "特卖",
+            "menu_param": "",
+            "menu_font_color": "#e73f85",
+            "menu_line_color": "#e73f85",
+            "menu_icon": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "menu_target": "https://wap.epet.com/brandsale.html?pet_type=cat",
+            "menu_type": 0,
+            "menu_image": {
+                "image": "",
+                "img_size": "",
+                "selected_image": ""
+            },
+            "menu_shareid": "57"
+        },
+        {
+            "menu_id": "63",
+            "menu_name": "罐头超市",
+            "menu_param": "74",
+            "menu_font_color": "#e73f85",
+            "menu_line_color": "#e73f85",
+            "menu_icon": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "menu_target": "",
+            "menu_type": 0,
+            "menu_image": {
+                "image": "",
+                "img_size": "",
+                "selected_image": ""
+            },
+            "menu_shareid": "63"
+        },
+        {
+            "menu_id": "72",
+            "menu_name": "潮品视频",
+            "menu_param": "121",
+            "menu_font_color": "#e73f85",
+            "menu_line_color": "#e73f85",
+            "menu_icon": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "menu_target": "",
+            "menu_type": 0,
+            "menu_image": {
+                "image": "",
+                "img_size": "",
+                "selected_image": ""
+            },
+            "menu_shareid": "72"
+        },
+        {
+            "menu_id": "64",
+            "menu_name": "新喵课堂",
+            "menu_param": "5",
+            "menu_font_color": "#e73f85",
+            "menu_line_color": "#e73f85",
+            "menu_icon": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "menu_target": "",
+            "menu_type": 0,
+            "menu_image": {
+                "image": "",
+                "img_size": "",
+                "selected_image": ""
+            },
+            "menu_shareid": "58"
+        }
+    ],
+    "datas": [
+        {
+            "index": "23",
+            "is_show": 1,
+            "type": "1",
+            "is_dynamic": "0",
+            "type_name": "图片轮播广告",
+            "value": [
+                {
+                    "advid": "22803",
+                    "atid": "0",
+                    "image": "https://img2.epetbar.com/nowater/2017-07/21/16/c0d1e757214e689262954a56b76b0740.jpg@!water",
+                    "img_size": "750x320",
+                    "target": {
+                        "mode": "web",
+                        "param": "http://sale.epet.com/m/mould/activity/ztMjE4Mw%3D%3D.html?tid=2183"
+                    }
+                },
+                {
+                    "advid": "22918",
+                    "atid": "0",
+                    "image": "https://img2.epetbar.com/nowater/2017-08/04/14/097de2a4fdf1e197c9304d9dba9a9876.jpg@!water",
+                    "img_size": "750x320",
+                    "target": {
+                        "mode": "web",
+                        "param": "http://sale.epet.com/m/mould/activity/ztMjIxNA%3D%3D.html?tid=2214"
+                    }
+                },
+                {
+                    "advid": "22949",
+                    "atid": "0",
+                    "image": "https://img2.epetbar.com/nowater/2017-08/08/11/b951926e38a8ba2664b7ff11a850f19d.jpg@!water",
+                    "img_size": "750x320",
+                    "target": {
+                        "mode": "web",
+                        "param": "http://sale.epet.com/m/mould/activity/dMjE0MQ%3D%3D.html?tid=2141"
+                    }
+                },
+                {
+                    "advid": "22962",
+                    "atid": "0",
+                    "image": "https://img2.epetbar.com/nowater/2017-08/08/09/8a02414a1cd663dadc6e67c3ff9d6573.jpg@!water",
+                    "img_size": "750x320",
+                    "target": {
+                        "mode": "web",
+                        "param": "http://sale.epet.com/m/mould/activity/ztMjIxMg%3D%3D.html?tid=2212"
+                    }
+                },
+                {
+                    "advid": "22928",
+                    "atid": "0",
+                    "image": "https://img2.epetbar.com/nowater/2017-08/04/13/a87ef931a96884b958d859952d3e40ad.png@!water",
+                    "img_size": "750x320",
+                    "target": {
+                        "mode": "web",
+                        "param": "https://wap.epet.com/petschool/SchoolDetail.html?aid=32"
+                    }
+                },
+                {
+                    "advid": "22952",
+                    "atid": "0",
+                    "image": "https://img2.epetbar.com/nowater/2017-08/04/16/7666821c190eab2da6d85ce6d9bef445.png@!water",
+                    "img_size": "750x320",
+                    "target": {
+                        "mode": "web",
+                        "param": "https://wap.epet.com/article/video/View.html?vid=27&fw=0&from=singlemessage&isappinstalled=1"
+                    }
+                }
+            ]
+        },
+        {
+            "index": "60",
+            "is_show": 1,
+            "type": "2",
+            "is_dynamic": "1",
+            "type_name": "栏目菜单一"
+        },
+        {
+            "index": "84",
+            "is_show": 1,
+            "type": "100",
+            "is_dynamic": "0",
+            "type_name": "模块分割线",
+            "value": {
+                "image": "",
+                "img_size": "750x25",
+                "target": {}
+            }
+        },
+        {
+            "index": "27",
+            "is_show": 1,
+            "type": "8",
+            "is_dynamic": "1",
+            "type_name": "天天惊喜模板"
+        },
+        {
+            "index": "52",
+            "is_show": 1,
+            "type": "100",
+            "is_dynamic": "0",
+            "type_name": "模块分割线",
+            "value": {
+                "image": "",
+                "img_size": "750x25",
+                "target": {}
+            }
+        },
+        {
+            "index": "57",
+            "is_show": 1,
+            "type": "13",
+            "is_dynamic": "0",
+            "type_name": "通用广告模板",
+            "left_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "center_image": {
+                "image": "https://img2.epetbar.com/nowater/2017-03/09/18/fc0a266a307cf8a8d31cddc1f013b3f8.jpg",
+                "img_size": "750x80",
+                "target": {}
+            },
+            "right_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "show_line": "1",
+            "content_images": [
+                [
+                    {
+                        "advid": "22668",
+                        "atid": "0",
+                        "image": "https://img2.epetbar.com/nowater/2017-07/10/18/0d983a7720686c0f2a752f741f61cc39.png@!water",
+                        "img_size": "319x379",
+                        "target": {
+                            "mode": "web",
+                            "param": "https://wap.epet.com/main.html?menu_param=5&pet_type=cat&fw=0"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "advid": "20269",
+                        "atid": "0",
+                        "image": "https://img2.epetbar.com/nowater/2017-07/10/17/b28d28780e77a619e106269cd63b6f2a.jpg@!water",
+                        "img_size": "430x189",
+                        "target": {
+                            "mode": "web",
+                            "param": "http://wap.epet.com/group"
+                        }
+                    },
+                    {
+                        "advid": "20265",
+                        "atid": "0",
+                        "image": "https://img2.epetbar.com/nowater/2017-03/16/12/8effccc6ec692af5980cbb231ea22583.jpg@!water",
+                        "img_size": "430x190",
+                        "target": {
+                            "mode": "web",
+                            "param": "http://wap.epet.com/catshop/main.html"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "index": "58",
+            "is_show": 1,
+            "type": "100",
+            "is_dynamic": "0",
+            "type_name": "模块分割线",
+            "value": {
+                "image": "",
+                "img_size": "750x25",
+                "target": {}
+            }
+        },
+        {
+            "index": "2120",
+            "is_show": 1,
+            "type": "21",
+            "is_dynamic": "0",
+            "type_name": "自定义Title模板",
+            "value": {
+                "title_height": "80",
+                "top_line": {
+                    "isline": 0,
+                    "line_color": "",
+                    "padding": "",
+                    "line_image": {}
+                },
+                "bottom_line": {
+                    "isline": 0,
+                    "line_color": "",
+                    "padding": "",
+                    "line_image": {}
+                },
+                "left": {},
+                "center": {
+                    "type": "image",
+                    "text": {},
+                    "img": {
+                        "image": "https://img2.epetbar.com/nowater/2017-06/30/14/c273ce882b843a24911ee3085398943a.png",
+                        "img_size": "285x80",
+                        "target": {
+                            "mode": "index_single",
+                            "param": "121"
+                        }
+                    }
+                },
+                "right": {
+                    "type": "image",
+                    "text": {},
+                    "img": {
+                        "image": "https://img2.epetbar.com/nowater/2017-06/30/14/d59418e11adda40d5bfc3148f4edef46.png",
+                        "img_size": "120x95",
+                        "target": {
+                            "mode": "index_single",
+                            "param": "121"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "index": "2121",
+            "is_show": 1,
+            "type": "104",
+            "is_dynamic": "0",
+            "type_name": "首页视频列表",
+            "value": [
+                {
+                    "vid": "54",
+                    "title": "神奇饮水除口臭<font color='#ff0000'>#猫咪保健</font>",
+                    "time": "01:13",
+                    "video_size": "7.59",
+                    "link": "http://player.epetbar.com/b51b3fa2eecc447690060674155c4934/5910ac5ff27248059121d449ab1680ee-5287d2089db37e62345123a1be272f8b.mp4",
+                    "visit": 21333,
+                    "visit_img": {
+                        "image": "https://static.epetbar.com/static_web/wap/dist/images/views-gray.png",
+                        "img_size": "30x25"
+                    },
+                    "cover": {
+                        "image": "https://img1.epetbar.com/2017-08/01/10/b74020c78e97fd082f6ae2796dbea567.jpg@!water",
+                        "img_size": "750X421"
+                    },
+                    "target": {
+                        "mode": "chao_video",
+                        "param": "54"
+                    },
+                    "share_target": {
+                        "mode": "shareto",
+                        "param": {
+                            "title": "神奇饮水除口臭",
+                            "content": "品质养宠·尽在E宠",
+                            "url": "https://wap.epet.com/article/video/View.html?vid=54&fw=0",
+                            "image": "https://img1.epetbar.com/2017-08/01/10/b74020c78e97fd082f6ae2796dbea567.jpg@!water",
+                            "types": "weixin,weixin_ring,qq,qzone,sina"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "index": "2122",
+            "is_show": 1,
+            "type": "100",
+            "is_dynamic": "0",
+            "type_name": "模块分割线",
+            "value": {
+                "image": "",
+                "img_size": "750x25",
+                "target": {}
+            }
+        },
+        {
+            "index": "1352",
+            "is_show": 1,
+            "type": "21",
+            "is_dynamic": "0",
+            "type_name": "自定义Title模板",
+            "value": {
+                "title_height": "80",
+                "top_line": {
+                    "isline": 0,
+                    "line_color": "",
+                    "padding": "",
+                    "line_image": {}
+                },
+                "bottom_line": {
+                    "isline": 0,
+                    "line_color": "",
+                    "padding": "",
+                    "line_image": {}
+                },
+                "left": {},
+                "center": {
+                    "type": "image",
+                    "text": {},
+                    "img": {
+                        "image": "https://img2.epetbar.com/nowater/2017-04/19/18/a3cf638c4a9d9119da4785f6f879f143.png",
+                        "img_size": "285x80",
+                        "target": {
+                            "mode": "web",
+                            "param": "http://wap.epet.com/trial/main.html?do=report&brandid=0"
+                        }
+                    }
+                },
+                "right": {
+                    "type": "image",
+                    "text": {},
+                    "img": {
+                        "image": "https://img2.epetbar.com/nowater/2017-04/19/20/65336c790d552d2356490bc03587fa04.png",
+                        "img_size": "120x95",
+                        "target": {
+                            "mode": "web",
+                            "param": "http://wap.epet.com/trial/main.html?do=report&brandid=0"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "index": "1353",
+            "is_show": 1,
+            "type": "1",
+            "is_dynamic": "0",
+            "type_name": "图片轮播广告",
+            "value": [
+                {
+                    "advid": "22937",
+                    "atid": "0",
+                    "image": "https://img2.epetbar.com/nowater/2017-08/04/14/6fb1bf2d726a3746fd92edbe5816de65.jpg@!water",
+                    "img_size": "750x310",
+                    "target": {
+                        "mode": "web",
+                        "param": "https://wap.epet.com/trial/Report.html?do=view&trid=260&fw=0"
+                    }
+                },
+                {
+                    "advid": "22941",
+                    "atid": "0",
+                    "image": "https://img2.epetbar.com/nowater/2017-08/04/14/56c9cacaaa8e59c9ba5147740b380db6.jpg@!water",
+                    "img_size": "750x310",
+                    "target": {
+                        "mode": "web",
+                        "param": "https://wap.epet.com/trial/Report.html?do=view&trid=224"
+                    }
+                },
+                {
+                    "advid": "22939",
+                    "atid": "0",
+                    "image": "https://img2.epetbar.com/nowater/2017-08/04/14/7e1bd2940fda09390163e2fe6f6b9d73.jpg@!water",
+                    "img_size": "750x310",
+                    "target": {
+                        "mode": "web",
+                        "param": "https://wap.epet.com/trial/Report.html?do=view&trid=235&fw=0"
+                    }
+                }
+            ]
+        },
+        {
+            "index": "1424",
+            "is_show": 1,
+            "type": "100",
+            "is_dynamic": "0",
+            "type_name": "模块分割线",
+            "value": {
+                "image": "",
+                "img_size": "750x25",
+                "target": {}
+            }
+        },
+        {
+            "index": "1355",
+            "is_show": 1,
+            "type": "21",
+            "is_dynamic": "0",
+            "type_name": "自定义Title模板",
+            "value": {
+                "title_height": "80",
+                "top_line": {
+                    "isline": 0,
+                    "line_color": "",
+                    "padding": "",
+                    "line_image": {}
+                },
+                "bottom_line": {
+                    "isline": 1,
+                    "line_color": "#999999",
+                    "padding": "10",
+                    "line_image": {}
+                },
+                "left": {},
+                "center": {
+                    "type": "image",
+                    "text": {},
+                    "img": {
+                        "image": "https://img2.epetbar.com/nowater/2017-04/19/20/0985e7be719f6c63044266c29c29c9ec.png",
+                        "img_size": "285x80",
+                        "target": {
+                            "mode": "",
+                            "param": ""
+                        }
+                    }
+                },
+                "right": {}
+            }
+        },
+        {
+            "index": "2078",
+            "is_show": 0,
+            "type": "7",
+            "is_dynamic": "0",
+            "type_name": "单广告模板",
+            "title": "品牌特卖 -雷米高医疗保健",
+            "sub_title": "全场低至0.1元",
+            "content_images": []
+        },
+        {
+            "index": "329",
+            "is_show": 0,
+            "type": "7",
+            "is_dynamic": "0",
+            "type_name": "单广告模板",
+            "title": "蓝氏天然低敏粮",
+            "sub_title": "亮毛&肠道护理&免疫",
+            "content_images": []
+        },
+        {
+            "index": "2124",
+            "is_show": 0,
+            "type": "7",
+            "is_dynamic": "0",
+            "type_name": "单广告模板",
+            "title": "品牌特卖-伯纳天纯",
+            "sub_title": "",
+            "content_images": []
+        },
+        {
+            "index": "2140",
+            "is_show": 0,
+            "type": "7",
+            "is_dynamic": "0",
+            "type_name": "单广告模板",
+            "title": "喜跃VS妙多乐",
+            "sub_title": "1元换购",
+            "content_images": []
+        },
+        {
+            "index": "2060",
+            "is_show": 0,
+            "type": "7",
+            "is_dynamic": "0",
+            "type_name": "单广告模板",
+            "title": "品牌特卖-海洋之星",
+            "sub_title": "",
+            "content_images": []
+        },
+        {
+            "index": "2074",
+            "is_show": 1,
+            "type": "7",
+            "is_dynamic": "0",
+            "type_name": "单广告模板",
+            "title": "品牌特卖-医仕高",
+            "sub_title": "全场6折起",
+            "content_images": [
+                {
+                    "advid": "22434",
+                    "atid": "0",
+                    "image": "https://img2.epetbar.com/nowater/2017-06/21/12/d93a582ada125b43e81b30655fb69030.jpg@!water",
+                    "img_size": "750x310",
+                    "target": {
+                        "mode": "web",
+                        "param": "http://sale.epet.com/m/mould/activity/ztMjI0MA%3D%3D.html?tid=2240"
+                    }
+                }
+            ]
+        },
+        {
+            "index": "2148",
+            "is_show": 0,
+            "type": "7",
+            "is_dynamic": "0",
+            "type_name": "单广告模板",
+            "title": "伟嘉低至7折",
+            "sub_title": "低至7折",
+            "content_images": []
+        },
+        {
+            "index": "2130",
+            "is_show": 0,
+            "type": "7",
+            "is_dynamic": "0",
+            "type_name": "单广告模板",
+            "title": "麦富迪新品猫粮",
+            "sub_title": "满99送99",
+            "content_images": []
+        },
+        {
+            "index": "2133",
+            "is_show": 0,
+            "type": "7",
+            "is_dynamic": "0",
+            "type_name": "单广告模板",
+            "title": "品牌特卖-巅峰",
+            "sub_title": "",
+            "content_images": []
+        },
+        {
+            "index": "2058",
+            "is_show": 0,
+            "type": "7",
+            "is_dynamic": "0",
+            "type_name": "单广告模板",
+            "title": "牛油果",
+            "sub_title": "最高减80",
+            "content_images": []
+        },
+        {
+            "index": "2123",
+            "is_show": 0,
+            "type": "7",
+            "is_dynamic": "0",
+            "type_name": "单广告模板",
+            "title": "比瑞吉",
+            "sub_title": "满100送84元",
+            "content_images": []
+        },
+        {
+            "index": "1395",
+            "is_show": 0,
+            "type": "7",
+            "is_dynamic": "0",
+            "type_name": "单广告模板",
+            "title": "品牌特卖-发育宝猫粮",
+            "sub_title": "超强适口性",
+            "content_images": []
+        },
+        {
+            "index": "2129",
+            "is_show": 0,
+            "type": "7",
+            "is_dynamic": "0",
+            "type_name": "单广告模板",
+            "title": "贵族健康罐头",
+            "sub_title": "保健品0元送",
+            "content_images": []
+        },
+        {
+            "index": "1436",
+            "is_show": 0,
+            "type": "7",
+            "is_dynamic": "0",
+            "type_name": "单广告模板",
+            "title": "品牌特卖-佩玛思特",
+            "sub_title": "",
+            "content_images": []
+        },
+        {
+            "index": "2063",
+            "is_show": 0,
+            "type": "7",
+            "is_dynamic": "0",
+            "type_name": "单广告模板",
+            "title": "小宠特卖：全场7折",
+            "sub_title": "低至4.5元",
+            "content_images": []
+        },
+        {
+            "index": "2143",
+            "is_show": 0,
+            "type": "7",
+            "is_dynamic": "0",
+            "type_name": "单广告模板",
+            "title": "希宝买6送1",
+            "sub_title": "买6送1",
+            "content_images": []
+        },
+        {
+            "index": "2172",
+            "is_show": 1,
+            "type": "7",
+            "is_dynamic": "0",
+            "type_name": "单广告模板",
+            "title": "我的日期不完美",
+            "sub_title": "大牌临期1折起",
+            "content_images": [
+                {
+                    "advid": "22781",
+                    "atid": "0",
+                    "image": "https://img2.epetbar.com/nowater/2017-07/19/19/8d4d184bcf01207d3f039b406a904651.jpg@!water",
+                    "img_size": "750x310",
+                    "target": {
+                        "mode": "web",
+                        "param": "http://sale.epet.com/m/mould/activity/ztMjE2MA%3D%3D.html?tid=2160"
+                    }
+                }
+            ]
+        },
+        {
+            "index": "1459",
+            "is_show": 0,
+            "type": "7",
+            "is_dynamic": "0",
+            "type_name": "单广告模板",
+            "title": "品牌特卖-雅美特&百利怡品",
+            "sub_title": "",
+            "content_images": []
+        },
+        {
+            "index": "1454",
+            "is_show": 0,
+            "type": "7",
+            "is_dynamic": "0",
+            "type_name": "单广告模板",
+            "title": "美味零食特卖",
+            "sub_title": "",
+            "content_images": []
+        },
+        {
+            "index": "1915",
+            "is_show": 0,
+            "type": "7",
+            "is_dynamic": "0",
+            "type_name": "单广告模板",
+            "title": "616品牌特卖-谷登",
+            "sub_title": "",
+            "content_images": []
+        },
+        {
+            "index": "1435",
+            "is_show": 0,
+            "type": "7",
+            "is_dynamic": "0",
+            "type_name": "单广告模板",
+            "title": "品牌特卖-菲派",
+            "sub_title": "最高减80",
+            "content_images": []
+        },
+        {
+            "index": "1315",
+            "is_show": 0,
+            "type": "7",
+            "is_dynamic": "0",
+            "type_name": "单广告模板",
+            "title": "品牌特卖-圣路薇",
+            "sub_title": "宠友口碑产品",
+            "content_images": []
+        },
+        {
+            "index": "2077",
+            "is_show": 0,
+            "type": "7",
+            "is_dynamic": "0",
+            "type_name": "单广告模板",
+            "title": "品牌特卖-PETSTAGES",
+            "sub_title": "",
+            "content_images": []
+        },
+        {
+            "index": "392",
+            "is_show": 1,
+            "type": "14",
+            "is_dynamic": "0",
+            "type_name": "TA公益模板",
+            "all_donate_money": "641,129.06",
+            "all_pet_num": 534,
+            "gy_brands_count": 14,
+            "gy_brands_count_no_epet": 13,
+            "gy_organization_num": 7,
+            "gy_organization_activity_num": 2,
+            "adopt_user_num": 32,
+            "list": [
+                {
+                    "brandid": "0",
+                    "brand_name": "E宠商城",
+                    "logo": {
+                        "image": "https://static.epetbar.com/static_wap/appmall/main/epet_brand_logo.png",
+                        "img_size": "200x200",
+                        "target": {}
+                    },
+                    "donate_money_txt": "已捐助¥147252.18"
+                },
+                {
+                    "brandid": "127",
+                    "brand_name": "海洋之星Fish4Dogs",
+                    "logo": {
+                        "image": "https://img2.epetbar.com/nowater/2016-08/18/16/637879a33f1ea84ccdbfa2dc1b3de16e.jpg",
+                        "img_size": "200x200",
+                        "target": {
+                            "mode": "brand_homepage",
+                            "param": "127"
+                        }
+                    },
+                    "donate_money_txt": "已捐助¥150421.41"
+                },
+                {
+                    "brandid": "830",
+                    "brand_name": "MAG",
+                    "logo": {
+                        "image": "https://img2.epetbar.com/nowater/brand_logo/2015-10/17/12/d9e05c4a2d35c88ffee0dcec98fba6a4.jpg",
+                        "img_size": "200x200",
+                        "target": {
+                            "mode": "brand_homepage",
+                            "param": "830"
+                        }
+                    },
+                    "donate_money_txt": "已捐助¥57689.85"
+                },
+                {
+                    "brandid": "17",
+                    "brand_name": "雷米高",
+                    "logo": {
+                        "image": "https://img2.epetbar.com/nowater/2016-08/18/16/92371ab34de0ea12b67028d6625c5180.jpg",
+                        "img_size": "200x200",
+                        "target": {
+                            "mode": "brand_homepage",
+                            "param": "17"
+                        }
+                    },
+                    "donate_money_txt": "已捐助¥53636.47"
+                },
+                {
+                    "brandid": "259",
+                    "brand_name": "安娜玛特Annamaet",
+                    "logo": {
+                        "image": "https://img2.epetbar.com/nowater/2016-08/18/16/c997f3ae79a7568cf7b6dde5c7b7f8b1.jpg",
+                        "img_size": "200x200",
+                        "target": {
+                            "mode": "brand_homepage",
+                            "param": "259"
+                        }
+                    },
+                    "donate_money_txt": "已捐助¥48546.20"
+                },
+                {
+                    "brandid": "182",
+                    "brand_name": "禾仕嘉",
+                    "logo": {
+                        "image": "https://img2.epetbar.com/nowater/2016-08/19/10/fc04341d858e72a3937fd5484f4a32e8.jpg",
+                        "img_size": "200x200",
+                        "target": {
+                            "mode": "brand_homepage",
+                            "param": "182"
+                        }
+                    },
+                    "donate_money_txt": "已捐助¥33906.60"
+                },
+                {
+                    "brandid": "235",
+                    "brand_name": "维斯康VitsCan",
+                    "logo": {
+                        "image": "https://img2.epetbar.com/nowater/brand_logo/2017-07/14/10/554b6be0390fa8c1254322d8f4af10b5.jpg",
+                        "img_size": "200x200",
+                        "target": {
+                            "mode": "brand_homepage",
+                            "param": "235"
+                        }
+                    },
+                    "donate_money_txt": "已捐助¥30608.79"
+                },
+                {
+                    "brandid": "1158",
+                    "brand_name": "雅美特",
+                    "logo": {
+                        "image": "https://img2.epetbar.com/nowater/2016-08/18/16/e3fc4e24073e3ac5b8980603463a8828.jpg",
+                        "img_size": "200x200",
+                        "target": {
+                            "mode": "brand_homepage",
+                            "param": "1158"
+                        }
+                    },
+                    "donate_money_txt": "已捐助¥28168.97"
+                },
+                {
+                    "brandid": "480",
+                    "brand_name": "醇粹Purich",
+                    "logo": {
+                        "image": "https://img2.epetbar.com/nowater/brand_logo/2017-02/13/12/c62b86f4f88077ce1727887f53077fb5.jpg",
+                        "img_size": "200x200",
+                        "target": {
+                            "mode": "brand_homepage",
+                            "param": "480"
+                        }
+                    },
+                    "donate_money_txt": "已捐助¥27213.52"
+                },
+                {
+                    "brandid": "71",
+                    "brand_name": "新宠之康",
+                    "logo": {
+                        "image": "https://img2.epetbar.com/nowater/brand_logo/2012-12/19/173b650c034343e5244bc8fba89704c8.jpg",
+                        "img_size": "200x200",
+                        "target": {
+                            "mode": "brand_homepage",
+                            "param": "71"
+                        }
+                    },
+                    "donate_money_txt": "已捐助¥17077.75"
+                },
+                {
+                    "brandid": "1000",
+                    "brand_name": "强生宠儿",
+                    "logo": {
+                        "image": "https://img2.epetbar.com/nowater/brand_logo/2015-08/17/10/2a7c8efcc191a03430fe2af6df594d4a.jpg",
+                        "img_size": "200x200",
+                        "target": {
+                            "mode": "brand_homepage",
+                            "param": "1000"
+                        }
+                    },
+                    "donate_money_txt": "已捐助¥14107.41"
+                },
+                {
+                    "brandid": "775",
+                    "brand_name": "伯纳天纯",
+                    "logo": {
+                        "image": "https://img2.epetbar.com/nowater/brand_logo/2017-07/14/10/86414673b92fb227bbd0d006949814ab.jpg",
+                        "img_size": "200x200",
+                        "target": {
+                            "mode": "brand_homepage",
+                            "param": "775"
+                        }
+                    },
+                    "donate_money_txt": "已捐助¥12500.00"
+                },
+                {
+                    "brandid": "318",
+                    "brand_name": "路斯",
+                    "logo": {
+                        "image": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/14/f72f0855fa02052f23c3d19b22f8242c.jpg",
+                        "img_size": "200x200",
+                        "target": {
+                            "mode": "brand_homepage",
+                            "param": "318"
+                        }
+                    },
+                    "donate_money_txt": "已捐助¥10000.00"
+                },
+                {
+                    "brandid": "829",
+                    "brand_name": "谷登GOLDEN",
+                    "logo": {
+                        "image": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/16/276527f25e9151ef48b0b8d2dba79d29.jpg",
+                        "img_size": "200x200",
+                        "target": {
+                            "mode": "brand_homepage",
+                            "param": "829"
+                        }
+                    },
+                    "donate_money_txt": "已捐助¥10000.00"
+                }
+            ],
+            "left_image": {
+                "image": "",
+                "img_size": "",
+                "target": {
+                    "mode": "web",
+                    "param": "https://wap.epet.com/brand/main.html"
+                }
+            },
+            "center_image": {
+                "image": "https://img2.epetbar.com/nowater/2016-12/26/10/682fd54a104c5e719968cce468a1bd0f.jpg",
+                "img_size": "284x80",
+                "target": {
+                    "mode": "web",
+                    "param": "https://wap.epet.com/brand/main.html"
+                }
+            },
+            "right_image": {
+                "image": "https://img2.epetbar.com/nowater/2016-12/26/10/13cacd7e83cbfdc5c5cec4977f00e105.png",
+                "img_size": "125x18",
+                "target": {
+                    "mode": "web",
+                    "param": "http://m.gutou.com/ta.html"
+                }
+            },
+            "tagy_bg_image": {
+                "image": "https://img2.epetbar.com/nowater/2016-12/26/10/c59cb143b0ce0e77fbb0e6cdf7af702e.jpg",
+                "img_size": "750x280",
+                "target": {}
+            },
+            "tagy_left_image": {
+                "image": "https://img2.epetbar.com/nowater/2016-12/26/10/67b4b39cc28a9934fa58fa1b9d7e0e90.png",
+                "img_size": "115x106",
+                "target": {}
+            }
+        },
+        {
+            "index": "841",
+            "is_show": 1,
+            "type": "100",
+            "is_dynamic": "0",
+            "type_name": "模块分割线",
+            "value": {
+                "image": "",
+                "img_size": "750x25",
+                "target": {}
+            }
+        },
+        {
+            "index": "835",
+            "is_show": 1,
+            "type": "23",
+            "is_dynamic": "0",
+            "type_name": "口碑评价模板(新版)",
+            "list": [
+                {
+                    "username": "红*****ω",
+                    "join_time": "加入E宠2年0月",
+                    "pet_des": "中华田园猫",
+                    "main_image": {
+                        "image": "https://img1.epetbar.com/2017-03/29/14/d1cf520f66912ee6adcb29ffebe2efc8.jpg",
+                        "img_size": "2448x3264",
+                        "target": {}
+                    },
+                    "comment_content": "包装完美，没有破漏的情况存在，虽说是跨境运输，但是物流的速度还是比想象中快，最主要的还是正品保证，买得放心吃的安心",
+                    "target": {
+                        "mode": "web",
+                        "param": "https://wap.epet.com/reply/main.html?rid=4106784"
+                    }
+                },
+                {
+                    "username": "自***人",
+                    "join_time": "加入E宠2年6月",
+                    "pet_des": "萨摩耶",
+                    "main_image": {
+                        "image": "https://img1.epetbar.com/2017-02/03/12/2bfa814e0924d3c870a2b758c335b18d.jpg",
+                        "img_size": "960x1280",
+                        "target": {}
+                    },
+                    "comment_content": "物流挺给力，到货很快。包装也十分的棒，外面还有塑料薄膜包裹，非常好，一看就让人觉得质量绝对一级棒。客服真心不错，很耐心的给你讲解！就冲这个大大的好评，以后狗狗的东西直接来这里！ 再次祝e宠生意兴隆。",
+                    "target": {
+                        "mode": "web",
+                        "param": "https://wap.epet.com/reply/main.html?rid=3899795"
+                    }
+                },
+                {
+                    "username": "胡**婷",
+                    "join_time": "加入E宠1年0月",
+                    "pet_des": "萨摩耶",
+                    "main_image": {
+                        "image": "https://img1.epetbar.com/2017-08/05/19/81155a744f658951a4ca4764382fa110.jpg",
+                        "img_size": "666x666",
+                        "target": {}
+                    },
+                    "comment_content": "E宠的产品是一直很信任的，狗粮，零食保健品什么的都是在E宠买，买的放心，给狗子吃的也比较安心。物流超快的，一般第二天就能收到了，很快很及时，给E宠及工作人员点一百二十个赞",
+                    "target": {
+                        "mode": "service_evaluation",
+                        "param": "3"
+                    }
+                },
+                {
+                    "username": "霁**月",
+                    "join_time": "加入E宠8月",
+                    "pet_des": "串串",
+                    "main_image": {
+                        "image": "https://img1.epetbar.com/2017-08/05/16/402fa3508aadeb884c8d050179a422be.jpg",
+                        "img_size": "666x666",
+                        "target": {}
+                    },
+                    "comment_content": "一直在e宠买狗子的口粮和零食，非常感谢e宠给我提供的便利。最感动的就是客服们，每次有不懂的问题去咨询都会得到满意的回答，不管多么简单的问题她们都从不厌烦。谢谢\ne宠！",
+                    "target": {
+                        "mode": "service_evaluation",
+                        "param": "3"
+                    }
+                }
+            ],
+            "left_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "center_image": {
+                "image": "https://img2.epetbar.com/nowater/2017-02/09/14/fbcacf13ccc5748295fe0e6124fbec5d.png",
+                "img_size": "284x80",
+                "target": {}
+            },
+            "right_text": "好评率99.64%"
+        },
+        {
+            "index": "71",
+            "is_show": 1,
+            "type": "100",
+            "is_dynamic": "0",
+            "type_name": "模块分割线",
+            "value": {
+                "image": "",
+                "img_size": "750x25",
+                "target": {}
+            }
+        },
+        {
+            "index": "73",
+            "is_show": 1,
+            "type": "11",
+            "is_dynamic": "1",
+            "type_name": "猜你想买模板"
+        }
+    ]
+}
