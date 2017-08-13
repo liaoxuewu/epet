@@ -6,7 +6,9 @@
             <a href="./home/indexpage">
               <img src="./back.png" alt="" width="15" height="18">
             </a>
-            <span>注册</span>
+            <a href="javascript:;">
+              <span style="color: #fff">注册</span>
+            </a>
           </div>
         </div>
         <div class="bg-middle">
@@ -53,13 +55,14 @@
           <li class="item-psd">
             <span></span>
             <input type="text" placeholder="请输入图片内容">
-            <div id="v_container" style="width: 100px;height: 50px;float: right;margin-top: 10px"></div>
+            <div id="v_container" style="width: 100px;height: 50px;float: right;margin-top: 10px">
+            </div>
             <!--<input type="text" id="code_input" value="" /><button id="my_button">验证</button>-->
           </li>
           <li class="item-psd">
             <span></span>
             <input type="text" placeholder="动态密码">
-            <div class="get-psd">
+            <div class="get-psd" @click="getCode">
               获取动态密码
             </div>
           </li>
@@ -82,7 +85,7 @@
         <img src="./login_ico4.png" alt="" width="57" height="57">
         <img src="./login_ico2.png" alt="" width="57" height="57">
       </div>
-      <div class="dialog">
+      <!--<div class="dialog">
         <div class="loginPage">
           <h1>登录</h1>
           <el-form>
@@ -98,12 +101,21 @@
             <el-button @click="resetForm">重置</el-button>
           </el-form>
         </div>
-      </div>
+      </div>-->
       </div>
 </template>
 <script>
   import GVerify from '../../../static/gVerify'
   import axios from 'axios'
+
+  import md5 from 'blueimp-md5'
+  import moment from 'moment'
+  import Base64 from 'js-base64'
+  //var Base64 = require('./base64.js').Base64;
+  /*import request from 'request'*/
+
+  /*import sendCode from '../../../static/sms_util'
+   import randomCode from '../../../static/sms_util'*/
 
   export default {
     name: '',
@@ -133,7 +145,9 @@
             alert("验证码错误");
           }
         }*/
-        })
+
+
+      })
 
     },
     methods: {
@@ -152,13 +166,103 @@
           this.have = !this.have
         }
       },
-      resetForm:function(){
+      randomCode(length) {
+        var chars = ['0','1','2','3','4','5','6','7','8','9'];
+        var result = ""; //统一改名: alt + shift + R
+        for(var i = 0; i < length ; i ++) {
+          var index = Math.ceil(Math.random()*9);
+          result += chars[index];
+        }
+        console.log('验证码: ', result)
+        return result;
+      },
+      sendCode(phone, code, callback) {
+        var ACCOUNT_SID = '8a216da85da6adf7015db7c255da0431';
+        var AUTH_TOKEN = '3f8b4b8e354044f790316a490753025e';
+        var Rest_URL = 'https://app.cloopen.com:8883';
+        var AppID = '8a216da85da6adf7015db7c259be0438';
+        //1. 准备请求url
+        /*
+         1.使用MD5加密（账户Id + 账户授权令牌 + 时间戳）。其中账户Id和账户授权令牌根据url的验证级别对应主账户。
+         时间戳是当前系统时间，格式"yyyyMMddHHmmss"。时间戳有效时间为24小时，如：20140416142030
+         2.SigParameter参数需要大写，如不能写成sig=abcdefg而应该写成sig=ABCDEFG
+         */
+        var sigParameter = '';
+        var time = moment().format('YYYYMMDDHHmmss');
+        sigParameter = md5(ACCOUNT_SID+AUTH_TOKEN+time);
+        var url = Rest_URL+'/2013-12-26/Accounts/'+ACCOUNT_SID+'/SMS/TemplateSMS?sig='+sigParameter;
+
+        //2. 准备请求体
+        var body = {
+          to : phone,
+          appId : AppID,
+          templateId : '1',
+          "datas":[code,"1"]
+        }
+        //body = JSON.stringify(body);
+
+        //3. 准备请求头
+        /*
+         1.使用Base64编码（账户Id + 冒号 + 时间戳）其中账户Id根据url的验证级别对应主账户
+         2.冒号为英文冒号
+         3.时间戳是当前系统时间，格式"yyyyMMddHHmmss"，需与SigParameter中时间戳相同。
+         */
+        var authorization = ACCOUNT_SID + ':' + time;
+        authorization = Base64.Base64.encode(authorization);
+        var headers = {
+          'Accept' :'application/json',
+          'Content-Type' :'application/json;charset=utf-8',
+          'Content-Length': JSON.stringify(body).length+'',
+          'Authorization' : authorization
+        }
+
+        //4. 发送请求, 并得到返回的结果, 调用callback
+        var val = {
+          headers : headers,
+          body : body,
+          json : true
+        }
+        /*request({
+         method : 'POST',
+         url : url,
+         headers : headers,
+         body : body,
+         json : true
+         }, function (error, response, body) {
+         console.log(error, response, body);
+         callback(body.statusCode==='000000');
+         //callback(true);
+         });*/
+        axios.post(url,val).then(response => {
+
+          callback(body.statusCode==='000000');
+        }),(error)=>{
+          console.log(error)
+        }
+       /* this.axios({
+          methods: 'post',
+          baseURL: 'api',
+          headers : headers,
+          body : body,
+          json : true,
+          url : url
+        }).then(res => {
+          callback(body.statusCode==='000000');
+        })*/
+
+      },
+      getCode () {
+        this.sendCode('15261525287', this.randomCode(6), function (success) {
+          console.log(success);
+        })
+      }
+      /*resetForm:function(){
         this.formName.user = '';
         this.formName.userError = '';
         this.formName.password = '';
         this.formName.passwordError = '';
-      },
-      submitForm:function(formName){
+      },*/
+      /*submitForm:function(formName){
         //与父组件通信传值
         //this.$emit('showState', [this.beShow,this.formName.user])
         //提交user password
@@ -173,8 +277,8 @@
           .catch(function(){
 
           })
-      },
-      inputBlur:function(errorItem,inputContent){
+      },*/
+      /*inputBlur:function(errorItem,inputContent){
         if (errorItem === 'user') {
           if (inputContent === '') {
             this.formName.userError = '用户名不能为空'
@@ -194,7 +298,7 @@
         }else{
           this.formName.beDisabled = true;
         }
-      }
+      }*/
     }
   }
 </script>
@@ -331,7 +435,7 @@
     .ft-logo
       img
         margin 20px 0 0 50px
-  .dialog{
+  /*.dialog{
     width: 100%;
     height: 100%;
     background: rgba(0,0,0,.8);
@@ -352,5 +456,5 @@
   .loginPage p{
     color: red;
     text-align: left;
-  }
+  }*/
 </style>
